@@ -1,0 +1,25 @@
+body{
+    background-color:blue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.title{
+        font-size: 36px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        color: #2c3e50;
+        margin-bottom: 20px;
+    }
+/*Soy un comentario*/
+.class{
+    max-width: 90%;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
